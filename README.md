@@ -10,16 +10,10 @@
 - **Custom Groups** – Create nested groups with your own extensions (e.g., `Images/PNG` for `.png` files).
 - **Batch Organization** – Process hundreds of thousands of files efficiently.
 - **Undo** – One-click undo restores everything to its original location.
-- **Open Source** – Free for early adopters.
 
 ## 📸 Demo
 
 [Click here to watch the demo on YouTube](https://youtu.be/your-video-link)
-
-## 📦 Download
-
-- **Installer**: [Download Simplex FGBEO Setup](https://github.com/your-username/your-repo/releases/latest)
-- **Portable**: [Download Portable .zip](https://github.com/your-username/your-repo/releases/latest)
 
 ## 🛠️ Requirements
 
@@ -33,3 +27,7 @@
 3. **Add extensions** to each group (e.g., `.png`, `.jpg`).
 4. **Click "Organize"** – files are moved into the corresponding group folders.
 5. **Click "Undo"** to revert.
+
+## About Source Code
+
+Source will be added later if it reaches 1000 Downloads
