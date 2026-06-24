@@ -13,7 +13,7 @@
 
 ## 📸 Demo
 
-[Click here to watch the demo on YouTube]([https://youtu.be/your-video-link](https://x.com/Rifle_Blade/status/2069835950625358032))
+[Click here to watch the demo on YouTube](https://x.com/Rifle_Blade/status/2069835950625358032)
 
 ## 🛠️ Requirements
 
