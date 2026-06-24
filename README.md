@@ -5,3 +5,5 @@ Organizes files by their extensions ( .ext, .png, .webp , etc.) with nested grou
 1. Undo
 2. Nested Groups
 3. Multiple Extensions Per Group
+
+Make Sure click on the more option in the installer if the smart scanner appears cuz this application is new
