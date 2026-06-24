@@ -1,12 +1,35 @@
+# Simplex File Group By Extension Organizer (Simplex FGBEO)
 
-# Simplex-File-Organizer
-Organizes files by their extensions ( .ext, .png, .webp , etc.) with nested groups (Watch the Video to see its usage)
+**Organize thousands of files in one click by their extensions with custom nested groups.**
 
-# Features Included:
-1. Undo
-2. Nested Groups
-3. Multiple Extensions Per Group
+---
 
-Make Sure click on the more option in the installer if the smart scanner appears cuz this application is new
+## 🔥 Features
 
-<img width="409" height="610" alt="logo" src="https://github.com/user-attachments/assets/f53ca5b6-325b-4721-87bb-141f9a492870" />
+- **Drag & Drop** – Just drag a folder into the app.
+- **Custom Groups** – Create nested groups with your own extensions (e.g., `Images/PNG` for `.png` files).
+- **Batch Organization** – Process hundreds of thousands of files efficiently.
+- **Undo** – One-click undo restores everything to its original location.
+- **Open Source** – Free for early adopters.
+
+## 📸 Demo
+
+[Click here to watch the demo on YouTube](https://youtu.be/your-video-link)
+
+## 📦 Download
+
+- **Installer**: [Download Simplex FGBEO Setup](https://github.com/your-username/your-repo/releases/latest)
+- **Portable**: [Download Portable .zip](https://github.com/your-username/your-repo/releases/latest)
+
+## 🛠️ Requirements
+
+- **Windows** (7, 10, 11) – 64-bit
+- No Java installation required (bundled runtime).
+
+## 📝 How to Use
+
+1. **Drag a folder** into the main window (or click "Browse").
+2. **Add groups** using the "Add Group" button.
+3. **Add extensions** to each group (e.g., `.png`, `.jpg`).
+4. **Click "Organize"** – files are moved into the corresponding group folders.
+5. **Click "Undo"** to revert.
