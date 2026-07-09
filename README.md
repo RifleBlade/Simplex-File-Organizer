@@ -31,3 +31,6 @@
 ## About Source Code
 
 Source will be added later if it reaches 1000 Downloads
+
+## Note
+It lags when you browse so follow me on X for updates and don't worry it will be fixed.
