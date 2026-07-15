@@ -22,10 +22,17 @@
 ## 🔥 Features
 
 - **Drag & Drop** – Just drag a folder into the app.
-- **Custom Groups** – Create nested groups with your own extensions (e.g., `Images/PNG` for `.png` files).
+- **Nested Custom Groups** – Create nested groups with your own extensions (e.g., `Images/PNG` for `.png` files). Example:
+-  Images
+    PNG
+    JPG
+
+Documents
+    PDF
 - **Batch Organization** – Process hundreds of thousands of files efficiently.
-- **Undo** – One-click undo restores everything to its original location.
+- **Transaction-based Undo** – One-click undo restores everything to its original location.
 - **NOT/OR Operators** – Exclude specific extensions (e.g., `NOT .tmp`).
+- - ⚡ Organizes tens of thousands of files quickly
 
 ---
 
@@ -38,9 +45,11 @@
 
 ---
 
-## 📸 Demo
+## 🎥 Demo
 
-[Click here to watch the demo on X](https://x.com/Rifle_Blade/status/2069835950625358032)
+Watch Simplex File Organizer organize 20,000 files in seconds.
+
+[Watch Simplex File Organizer organize 20,000 files in seconds.](https://x.com/Rifle_Blade/status/2069835950625358032)
 
 <!-- Screenshots here -->
 
@@ -85,12 +94,14 @@
 
 ## 💼 Hire Me
 
-I build custom JavaFX desktop applications for businesses and individuals.
+I build custom Java and JavaFX desktop applications for businesses and individuals.
 
-🔨 **What I can build:**
-- File organizers
-- Business tools
-- Data processors
+Services include:
+
+- File management tools
+- Business automation
+- Data processing applications
+- Internal desktop software
 - Custom utilities
 
 📩 **DM me on X** or **email me** to discuss your project.
