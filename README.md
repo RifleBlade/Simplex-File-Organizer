@@ -94,7 +94,7 @@ Watch Simplex File Organizer organize 20,000 files in seconds.
 
 ## 💼 Hire Me
 
-I build custom Java and JavaFX desktop applications for businesses and individuals.
+I build custom desktop software that automates repetitive tasks for businesses and individuals.
 
 Services include:
 
