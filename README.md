@@ -15,6 +15,10 @@
 *   🎨 **UI improvements** – Cleaner and more intuitive interface.
 *   🆕 **Improved Logo** – A fresh new look.
 
+**🔜 Coming Soon and in development**
+
+Background Process, Run on startup feature.
+
 ⬇️ **[Download the latest version here](https://github.com/RifleBlade/Simplex-File-Organizer/releases/latest)**
 
 ---
